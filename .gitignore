@@ -1,0 +1,14 @@
+.venv/*
+.idea/*
+
+*.c
+*.cpp
+*.so
+*.pyd
+*.dll
+
+# Build directories
+build/
+dist/
+__pycache__/
+*.egg-info/
